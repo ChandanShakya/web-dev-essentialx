@@ -2,7 +2,7 @@
   "name": "web-dev-essentialx",
   "displayName": "Web Dev Essentialx",
   "description": "This extension pack contains the essential extensions for Web Development",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/ChandanShakya/web-dev-essentialx"
@@ -15,7 +15,7 @@
   "categories": [
     "Extension Packs"
   ],
-  "extensionPack": [ 
+  "extensionPack": [
     "formulahendry.auto-close-tag",
     "formulahendry.auto-rename-tag",
     "streetsidesoftware.code-spell-checker",
